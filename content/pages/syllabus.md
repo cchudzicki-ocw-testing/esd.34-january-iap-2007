@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about system architecture, learning
+  objectives, strategy and structure, books, grading, grading policy, dissemination
+  policy, policy on academic integrity, and a calendar of lecture and workshop sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

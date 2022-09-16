@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the course's lecture and workshop
+  sessions, and a glossary of key terms and the lectures where they are introduced
+  and defined. The workshop files are courtesy of Thomas H. Speller, Jr. and are used
+  with permission.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

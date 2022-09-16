@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the course homework assignments,
+  known as Opportunity Sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
